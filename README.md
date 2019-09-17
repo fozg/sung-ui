@@ -1,6 +1,6 @@
 # README
 ## Sung-UI
-Just a VSCode Code theme base on Plastic
+Just a VSCode Code theme based on Plastic
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)

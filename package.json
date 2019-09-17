@@ -3,7 +3,7 @@
     "publisher": "fozg",
     "displayName": "Sung UI",
     "description": "Just a theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.38.0"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sung UI",
+                "label": "Sung Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sung UI-color-theme.json"
             }
@@ -22,6 +22,6 @@
     },
     "icon": "icon.png",
     "scripts": {
-        "package": "vsce package --out sung-ui.vsix"
+        "package": "vsce package --out sung-theme.vsix"
     }
 }

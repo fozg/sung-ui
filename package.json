@@ -19,5 +19,6 @@
                 "path": "./themes/Sung UI-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png"
 }

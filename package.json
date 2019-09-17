@@ -22,6 +22,6 @@
     },
     "icon": "icon.png",
     "scripts": {
-        "pack": "vsce package --out sung-ui.vsix"
+        "package": "vsce package --out sung-ui.vsix"
     }
 }

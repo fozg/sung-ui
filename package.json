@@ -2,7 +2,7 @@
     "name": "sung-ui",
     "displayName": "Sung UI",
     "description": "Just a theme",
-    "version": "0.0.1",
+    "version": "0.0.1--allow-sam-version",
     "engines": {
         "vscode": "^1.38.0"
     },

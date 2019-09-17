@@ -1,0 +1,21 @@
+{
+    "name": "sung-ui",
+    "displayName": "Sung UI",
+    "description": "Just a theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sung UI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sung UI-color-theme.json"
+            }
+        ]
+    }
+}
